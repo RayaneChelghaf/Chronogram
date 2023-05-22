@@ -1,5 +1,3 @@
-Ce code utilise la bibliothèque NAudio pour lire un fichier audio WAV et afficher le nombre d'échantillons lus.
-
 ## Utilisation
 
 
